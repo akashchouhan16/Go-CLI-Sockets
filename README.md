@@ -23,6 +23,3 @@ import (
     "github.com/gorilla/websocket"
 )
 ```
-
-Command Line test responses
-![terminalpreview](terminalpreview.png)
