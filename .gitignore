@@ -1,0 +1,16 @@
+.idea
+.env
+
+*.key
+*.pem
+*.o
+.DS_Store
+.idea
+-trash
+
+latex.aux
+latex.log
+latex.pdf
+latex.tex
+template_latex.aux
+template_latex.log
